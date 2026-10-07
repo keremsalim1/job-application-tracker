@@ -4,8 +4,8 @@ A simple web application to track job applications, built with React and Bootstr
 
 ## Screenshots
 
-![Light mode](screenshots/light.png)
-![Dark mode](screenshots/dark.png)
+![Light mode](screenshots/light.PNG)
+![Dark mode](screenshots/dark.PNG)
 
 ## Features
 
