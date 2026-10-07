@@ -2,6 +2,11 @@
 
 A simple web application to track job applications, built with React and Bootstrap 5.
 
+## Screenshots
+
+![Light mode](screenshots/light.png)
+![Dark mode](screenshots/dark.png)
+
 ## Features
 
 - Add, list, edit and delete job applications (CRUD)
